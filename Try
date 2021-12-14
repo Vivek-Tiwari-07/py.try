@@ -1,0 +1,4 @@
+i=int(input("Enter 1nos."))
+b=int(input("Enter 2nos.))
+c=i+b
+print(c)
